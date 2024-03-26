@@ -14,7 +14,7 @@ body {
 }
 /* Estilo para o cabeçalho da página */
 header {
-    background: rgb(63, 251, 79);
+    background: rgb(251, 104, 63);
 background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgb(224, 9, 52) 100%);
     text-align: center;
     padding: 20px;
