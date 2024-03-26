@@ -10,11 +10,11 @@ h{
 /* Estilo padrão do corpo da página */
 body {
     font-family: Arial, sans-serif;
-    background-color: rgb(128, 191, 243);
+    background-color: rgb(243, 166, 128);
 }
 /* Estilo para o cabeçalho da página */
 header {
-    background: rgb(63,94,251);
+    background: rgb(63, 251, 79);
 background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgb(224, 9, 52) 100%);
     text-align: center;
     padding: 20px;
