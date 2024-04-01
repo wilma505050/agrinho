@@ -12,7 +12,7 @@ body {
     font-family: Arial, sans-serif;
     background-color: rgb(40, 232, 223);
 }
-/* Estilo para o cabeçalho da página */
+/* Estilo para o cabeçalho da página */picture
 header {
     background: rgb(251, 104, 63);
 background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgb(0, 6, 43) 100%);
@@ -74,7 +74,7 @@ a {
 .capa{
     
     width: 600px;
-    border: 1px ;color: #64e408;
+    border: 1px ;
     margin-left: auto;
     margin-right: auto;
 }
