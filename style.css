@@ -16,7 +16,7 @@ body {
 header {
     background: rgb(251, 104, 63);
 background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgb(0, 6, 43) 100%);
-    text-align: center;color: #f30a0a;
+    text-align: center;
     padding: 20px;
     position: fixed; /* Torna o cabeçalho fixo na parte superior da tela. */ 
     top: 0; /* Define a posição superior como 0 para fixar o cabeçalho no topo. */
@@ -63,7 +63,7 @@ li {
 
 a {
     text-decoration: none;
-    color: #49e80a;
+    color: #4bee0b;
 }
 
 .especial{
