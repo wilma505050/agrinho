@@ -12,10 +12,10 @@ body {
     font-family: Arial, sans-serif;
     background-color: rgb(40, 232, 223);
 }
-/* Estilo para o cabeçalho da página */picture
+/* Estilo para o cabeçalho da página */
 header {
     background: rgb(251, 104, 63);
-background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgb(0, 6, 43) 100%);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgb(5, 27, 168) 100%);
     text-align: center;
     padding: 20px;
     position: fixed; /* Torna o cabeçalho fixo na parte superior da tela. */ 
